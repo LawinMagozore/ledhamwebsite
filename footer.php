@@ -1,4 +1,4 @@
-<?php include "./z_db.php"; ?>
+<?php include "../z_db.php"; ?>
 
 <!--====== Footer Area Start ======-->
 <footer class="section footer-area">
