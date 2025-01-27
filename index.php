@@ -1,4 +1,4 @@
-<?php include "header.php"; ?>
+<?php include "./header.php"; ?>
 <!-- ***** Welcome Area Start ***** -->
 <section id="home" class="section welcome-area bg-overlay overflow-hidden d-flex align-items-center">
     <div class="container">
