@@ -1,5 +1,5 @@
 <?php
-include "./header.php";
+include "header.php";
 $todo = mysqli_real_escape_string($con, $_GET["id"]);
 ?>
 <!-- ***** Breadcrumb Area Start ***** -->

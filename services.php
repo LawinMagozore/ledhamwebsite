@@ -1,4 +1,4 @@
- <?php include "./header.php"; ?>
+ <?php include "header.php"; ?>
  <section class="section breadcrumb-area overlay-dark d-flex align-items-center">
      <div class="container">
          <div class="row">
