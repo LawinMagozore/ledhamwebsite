@@ -1,11 +1,11 @@
 <?php
-$con = new mysqli(" localhost:3306", "ledhame1_ledhame1", "$Masvingo123", "ledhame1_vogue");
+$con = new mysqli("localhost:3306", "ledhame1_ledhame1", "Masvingo123", "ledhame1_vogue");
 if ($con->connect_errno) {
     echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 }
 
 //Your Website URL Goes Here
-$url = "http://localhost/vogue";
+$url = "https://ledhamearthmovers.co.zw/";
 
 
 //Set Blog Activation Bonus Here (It must be only Number)
