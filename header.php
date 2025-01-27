@@ -1,4 +1,4 @@
-<?php include "z_db.php"; ?>
+<?php include "./z_db.php"; ?>
 <!doctype html>
 <html class="no-js" lang="en">
 <?php

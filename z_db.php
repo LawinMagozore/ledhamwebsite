@@ -5,7 +5,7 @@ if ($con->connect_errno) {
 }
 
 //Your Website URL Goes Here
-$url = "https://ledhamearthmovers.co.zw/";
+$url = "https://ledhamearthmovers.co.zw/git";
 
 
 //Set Blog Activation Bonus Here (It must be only Number)
